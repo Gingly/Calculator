@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540547492 source:c:\users\mathieu\documents\github\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
